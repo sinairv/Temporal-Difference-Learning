@@ -16,7 +16,9 @@ The repository for the package is hosted on github: https://github.com/sinairv/T
 ## Contact
 
 Sina Iravanian: sina@sinairv.com
+
 Homepage: http://www.sinairv.com
+
 Github: https://github.com/sinairv
 
 ## Why temporal difference learning is important
@@ -25,7 +27,7 @@ A quotation from *R. S. Sutton*, and *A. G. Barto* from their book *Introduction
 
 > If one had to identify one idea as central and novel to reinforcement learning, it would undoubtedly be temporal-difference (TD) learning. 
 
-Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* are in essence a *temporal difference learning method*.
+Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* are in essence *temporal difference learning methods*.
 
 ## Demos
 
