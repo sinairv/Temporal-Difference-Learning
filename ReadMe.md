@@ -41,11 +41,11 @@ Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* ar
 
 ## References
 
-[1] Sutton, R. S., "Learning to predict by the methods of temporal differences, In *Machine Learning*, pp. 9–44, 1988 (available [online](http://webdocs.cs.ualberta.ca/~sutton/papers/sutton-88.pdf))
+[1] Sutton, R. S., "Learning to predict by the methods of temporal differences, In *Machine Learning*, pp. 9-44, 1988 (available [online](http://webdocs.cs.ualberta.ca/~sutton/papers/sutton-88.pdf))
 
 [2] Sutton, R. S. and Barto, A. G., "Reinforcement learning: An introduction," 1998 (available [online](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html))
 
-[3] Kaelbling, L. P., Littman, M. L., and Moore, A. W., "Reinforcement learning: A survey," *Journal of Artificial Intelligence Research*, Vol.4, pp.237–285, 1997 (available [online](http://www.jair.org/media/301/live-301-1562-jair.pdf))
+[3] Kaelbling, L. P., Littman, M. L., and Moore, A. W., "Reinforcement learning: A survey," *Journal of Artificial Intelligence Research*, Vol.4, pp.237-285, 1997 (available [online](http://www.jair.org/media/301/live-301-1562-jair.pdf))
 
 ## Screenshots
 
