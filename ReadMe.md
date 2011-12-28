@@ -53,12 +53,12 @@ Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* ar
 
 Prediction random walk demo:
 
-![Prediction random walk demo](https://github.com/sinairv/TemporalDifferenceLearning/raw/master/snapshots/GUIPrdRandomWalk.png)
+![Prediction random walk demo](https://github.com/sinairv/Temporal-Difference-Learning/raw/master/snapshots/GUIPrdRandomWalk.png)
 
 RL random walk demo:
 
-![RL random walk demo](https://github.com/sinairv/TemporalDifferenceLearning/raw/master/snapshots/GUIRLRandomWalk.png)
+![RL random walk demo](https://github.com/sinairv/Temporal-Difference-Learning/raw/master/snapshots/GUIRLRandomWalk.png)
 
 Simple grid-world demo:
 
-![Simple grid-world demo](https://github.com/sinairv/TemporalDifferenceLearning/raw/master/snapshots/GUIGridWorlds.png)
+![Simple grid-world demo](https://github.com/sinairv/Temporal-Difference-Learning/raw/master/snapshots/GUIGridWorlds.png)
