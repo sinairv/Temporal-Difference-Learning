@@ -13,14 +13,6 @@ Feel free to distribute and use the package especially for educational purposes.
 
 The repository for the package is hosted on github: https://github.com/sinairv/TemporalDifferenceLearning
 
-## Contact
-
-Sina Iravanian: sina@sinairv.com
-
-Homepage: http://www.sinairv.com
-
-Github: https://github.com/sinairv
-
 ## Why temporal difference learning is important
 
 A quotation from *R. S. Sutton*, and *A. G. Barto* from their book *Introduction to Reinforcement Learning* ([here](http://www.cs.ualberta.ca/~sutton/book/ebook/node60.html)):
@@ -49,16 +41,24 @@ Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* ar
 
 [3] Kaelbling, L. P., Littman, M. L., and Moore, A. W., "Reinforcement learning: A survey," *Journal of Artificial Intelligence Research*, Vol.4, pp.237-285, 1997 (available [online](http://www.jair.org/media/301/live-301-1562-jair.pdf))
 
+## Contact
+
+Sina Iravanian: sina@sinairv.com
+
+Homepage: http://www.sinairv.com
+
+Github: https://github.com/sinairv
+
 ## Screenshots
 
 Prediction random walk demo:
 
-![Prediction random walk demo](https://github.com/sinairv/Temporal-Difference-Learning/raw/master/snapshots/GUIPrdRandomWalk.png)
+![Prediction random walk demo](http://sinairv.github.com/Temporal-Difference-Learning/images/PrdRandomWalk.png)
 
 RL random walk demo:
 
-![RL random walk demo](https://github.com/sinairv/Temporal-Difference-Learning/raw/master/snapshots/GUIRLRandomWalk.png)
+![RL random walk demo](http://sinairv.github.com/Temporal-Difference-Learning/images/RLRandomWalk.png)
 
 Simple grid-world demo:
 
-![Simple grid-world demo](https://github.com/sinairv/Temporal-Difference-Learning/raw/master/snapshots/GUIGridWorlds.png)
+![Simple grid-world demo](http://sinairv.github.com/Temporal-Difference-Learning/images/GridWorlds.png)
