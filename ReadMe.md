@@ -1,17 +1,16 @@
+# Temporal-Difference Learning Demos in MATLAB
 
-# Temporal-Difference Learning Demos in Matlab
-
-In this package you will find Matlab codes which demonstrate some selected examples of *temporal-difference learning* methods in *prediction problems* and in *reinforcement learning*.
+In this package you will find MATLAB codes which demonstrate some selected examples of *temporal-difference learning* methods in *prediction problems* and in *reinforcement learning*.
 
 To begin:
 
-* Run `DemoGUI.m`. Yes the GUI is not very neat and clean!
+* Run `DemoGUI.m`
 * Start with the set of predefined demos: select one and press *Go*
 * Modify demos: select one of the predefined demos, and modify the options
 
-Feel free to distribute and use the package especially for educational purposes. I learned too much from cliff-walking ;) 
+Feel free to distribute or use package especially for educational purposes. I personally, learned too much from cliff-walking. 
 
-The repository for the package is hosted on github: https://github.com/sinairv/TemporalDifferenceLearning
+The repository for the package is hosted on [GitHub](https://github.com/sinairv/Temporal-Difference-Learning).
 
 ## Why temporal difference learning is important
 
@@ -25,9 +24,9 @@ Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* ar
 
 * *Prediciton random walk*: see how precise we can predict the probability of visiting nodes
 
-* *RL random walk*: see how RL generated random walk policy converges that computed probabilistically.
+* *RL random walk*: see how RL generated random walk policy converges the computed probabilities.
 
-* *Simple grid world (with and without king moves)*: see how RL generated policy helps the agent find the goal through time (By *king-moves* we mean moving along the four main directions and the diagonals, i.e., the way king moves in chess).
+* *Simple grid world (with and without king moves)*: see how RL generated policy helps the agent find the goal through time (by *king-moves* it is meant moving along the four main directions and the diagonals, i.e., the way king moves in chess).
 
 * *Windy grid world*: the wind distracts the agent from its destination sought by its actions. See how RL solves this problem.
 
@@ -43,22 +42,24 @@ Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* ar
 
 ## Contact
 
-Sina Iravanian: sina@sinairv.com
+Copyright (c) 2011 Sina Iravanian - licensed under MIT.
 
-Homepage: http://www.sinairv.com
+Homepage: [www.sinairv.com](http://www.sinairv.com)
 
-Github: https://github.com/sinairv
+GitHub: [github.com/sinairv](https://github.com/sinairv)
+
+Twitter: [@sinairv](http://www.twitter.com/sinairv)
 
 ## Screenshots
 
 Prediction random walk demo:
 
-![Prediction random walk demo](http://sinairv.github.com/Temporal-Difference-Learning/images/PrdRandomWalk.png)
+![Prediction random walk demo](http://sinairv.github.io/Temporal-Difference-Learning/images/PrdRandomWalk.png)
 
 RL random walk demo:
 
-![RL random walk demo](http://sinairv.github.com/Temporal-Difference-Learning/images/RLRandomWalk.png)
+![RL random walk demo](http://sinairv.github.io/Temporal-Difference-Learning/images/RLRandomWalk.png)
 
 Simple grid-world demo:
 
-![Simple grid-world demo](http://sinairv.github.com/Temporal-Difference-Learning/images/GridWorlds.png)
+![Simple grid-world demo](http://sinairv.github.io/Temporal-Difference-Learning/images/GridWorlds.png)
