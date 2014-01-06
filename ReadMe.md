@@ -54,12 +54,12 @@ Twitter: [@sinairv](http://www.twitter.com/sinairv)
 
 Prediction random walk demo:
 
-![Prediction random walk demo](http://sinairv.github.io/Temporal-Difference-Learning/images/PrdRandomWalk.png)
+![Prediction random walk demo](http://www.sinairv.com/Temporal-Difference-Learning/images/PrdRandomWalk.png)
 
 RL random walk demo:
 
-![RL random walk demo](http://sinairv.github.io/Temporal-Difference-Learning/images/RLRandomWalk.png)
+![RL random walk demo](http://www.sinairv.com/Temporal-Difference-Learning/images/RLRandomWalk.png)
 
 Simple grid-world demo:
 
-![Simple grid-world demo](http://sinairv.github.io/Temporal-Difference-Learning/images/GridWorlds.png)
+![Simple grid-world demo](http://www.sinairv.com/Temporal-Difference-Learning/images/GridWorlds.png)
