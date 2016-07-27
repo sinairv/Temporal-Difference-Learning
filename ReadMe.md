@@ -44,7 +44,7 @@ Many basic reinforcement learning algorithms such as *Q-Laerning* and *SARSA* ar
 
 Copyright (c) 2011 Sina Iravanian - licensed under MIT.
 
-Homepage: [www.sinairv.com](http://www.sinairv.com)
+Homepage: [sinairv.github.io](https://sinairv.github.io)
 
 GitHub: [github.com/sinairv](https://github.com/sinairv)
 
@@ -54,12 +54,12 @@ Twitter: [@sinairv](http://www.twitter.com/sinairv)
 
 Prediction random walk demo:
 
-![Prediction random walk demo](http://www.sinairv.com/Temporal-Difference-Learning/images/PrdRandomWalk.png)
+![Prediction random walk demo](http://sinairv.github.io/temporal-difference-learning/images/PrdRandomWalk.png)
 
 RL random walk demo:
 
-![RL random walk demo](http://www.sinairv.com/Temporal-Difference-Learning/images/RLRandomWalk.png)
+![RL random walk demo](http://sinairv.github.io/temporal-difference-learning/images/RLRandomWalk.png)
 
 Simple grid-world demo:
 
-![Simple grid-world demo](http://www.sinairv.com/Temporal-Difference-Learning/images/GridWorlds.png)
+![Simple grid-world demo](http://sinairv.github.io/temporal-difference-learning/images/GridWorlds.png)
